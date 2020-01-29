@@ -1,0 +1,102 @@
+body{
+    background-color: lightgrey;
+    margin-left: 10em;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    margin-right: 10em;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: skyblue;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  background-color: #111;
+}
+table {
+  border-collapse: collapse;
+    width: 66%;
+    height: 5em;
+   
+
+}
+
+table, th, td {
+  border: 3px solid black;
+text-align: center;
+    
+}
+form {
+    width: 350px;
+    height: 80px;
+    margin-left: 1em;
+    border: 1px solid black;
+    padding: 15px;
+    background-color: lightblue;
+    border-radius: 6px;
+}
+    
+footer {
+    background-color: #111;
+    text-align: center;
+    margin-top: 33em;
+}
+
+footer p {
+    color: white;
+    
+}
+div{
+    background-color: white;
+}  
+.P1{
+   width: 50em;
+    height: 15em; 
+    float: left;
+    margin-top: 1em;
+}
+.P2{
+    width: 50em;
+    height: 15em; 
+    float: left;
+    margin-top: 1em;
+    
+}
+.P3{
+      width: 20em;
+    height: 15em; 
+    float: right;
+    margin-top: 1em;
+}
+input[type=submit]
+{
+    color: white;
+    background-color: blue;
+    border-radius: 15px;
+    border: transparent;
+    margin-top: 10px;
+    width: 100%;
+    
+}
+.logotipo{
+    
+    display: inline-block;
+    border-radius: 125px;
+
+}

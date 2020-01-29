@@ -1,0 +1,128 @@
+body
+{
+    width: 80%;
+    background-color: lightgrey;
+    margin: 0 auto ;
+}
+.logotipo
+{
+    padding: 10px;
+}
+nav li
+{
+    display: inline-block;
+    font-size: 15px;
+    padding: 15px;
+}
+nav
+{
+    background-color: orangered;
+    width: 97%;
+    margin-left: 10px;
+}
+.menu
+{
+    color: white;
+}
+
+nav ul li a:link
+{
+    text-decoration: none;
+}
+
+nav ul li a:visited
+{
+    color: white;
+}
+
+table
+{
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+}
+table td
+{
+    border: 1px solid black;
+    padding: 20px;
+    border-collapse: collapse;
+}
+article
+{
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+}
+
+aside
+{
+    color: white;
+    width: 30%;
+    float: left;
+    background-color: grey;
+    padding-bottom: 50px;
+}
+form
+{
+    background-color: orangered;
+    border: solid 1px white;
+    border-radius: 10px;
+    width: 70%;
+    padding: 20px;
+    margin: 0 auto;
+   
+}
+
+.main .articles
+{
+    width: 68%;
+    float: left;
+    margin-right: 0;
+
+}
+
+label
+{
+    display: block;
+    width: 100%;
+}
+.formu
+{
+    padding-left: 10px;
+}
+input
+{
+    width: 90%;
+    padding: 5%;
+    margin-bottom: 8%;
+}
+textarea
+{
+    resize: vertical;
+    width: 100%;
+    padding-bottom: 30%;
+    margin-bottom: 15px;
+}
+input[type=submit]
+{
+    color: white;
+    background-color: blue;
+    border-radius: 15px;
+    border: transparent;
+    margin-top: 10px;
+    width: 100%;
+}
+footer
+{
+    clear: both;
+    background-color: black;
+    color: white;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    text-align: center;
+    margin-left: 10px;
+    width: 97%;
+}
+
+
+
